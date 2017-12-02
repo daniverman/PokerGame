@@ -1,0 +1,25 @@
+{
+  "name": "PokerGame",
+  "version": "0.0.1",
+  "description": "My Poker Game",
+  "main": "server.js",
+  "author": "Daniel Verman",
+  "dependencies": {
+    "express": "^4.16.2",
+    "body-parser": "^1.18.2",
+    "method-override": "^2.3.10",
+    "debug": "^3.1.0",
+    "morgan": "^1.9.0",
+    "request": "^2.83.0",
+    "bootstrap": "^3.3.7",
+    "tedious": "^2.1.5",
+    "socket.io": "^2.0.4",
+    "nodemon": "^1.12.1",
+    "angular": "^1.6.7",
+    "angular-ui-router": "^0.4.3",
+    "deck-of-cards": "^0.1.8",
+    "path": "^0.12.7"
+
+  }
+
+}
